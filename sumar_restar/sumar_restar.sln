@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumar", "sumar\sumar.csproj", "{BE686237-37D9-4433-8C38-72E7F94FD605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE686237-37D9-4433-8C38-72E7F94FD605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE686237-37D9-4433-8C38-72E7F94FD605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE686237-37D9-4433-8C38-72E7F94FD605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE686237-37D9-4433-8C38-72E7F94FD605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B58D330-F69E-4D95-9C8F-2F3457FE1E53}
+	EndGlobalSection
+EndGlobal
